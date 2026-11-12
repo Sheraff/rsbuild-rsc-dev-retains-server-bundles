@@ -1,5 +1,5 @@
 {
-  "name": "rsbuild-rsc-dev-hook-per-rebuild",
+  "name": "rsbuild-rsc-dev-retains-server-bundles",
   "private": true,
   "type": "module",
   "scripts": {
