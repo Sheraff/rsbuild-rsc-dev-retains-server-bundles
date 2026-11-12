@@ -1,6 +1,6 @@
 # Rsbuild RSC dev: every rebuild keeps the previous server bundle alive
 
-Issue: (link added once filed)
+Issue: https://github.com/web-infra-dev/rspack/issues/16597
 
 This is `examples/server` from [rsbuild-plugin-rsc](https://github.com/rstackjs/rsbuild-plugin-rsc)
 (commit 71f66e7) unchanged, plus `repro.mjs` and a `package.json` with published versions.
